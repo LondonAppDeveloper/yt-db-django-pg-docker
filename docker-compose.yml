@@ -20,6 +20,14 @@ services:
       - 8000:8000
     volumes:
       - ./backend:/backend
+    environment:
+      - DB_HOST=db
+      - DB_NAME=db
+      - DB_USER=user
+      - DB_PASS=localdevpw
+    depends_on:
+      db:
+        condition: service_healthy
 
   db:
     image: postgres:17.1
