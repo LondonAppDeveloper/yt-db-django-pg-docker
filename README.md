@@ -1,6 +1,8 @@
 
 <div align="center">
-    <img src="https://londonappdeveloper.com/wp-content/uploads/2024/11/banner.svg" alt="Banner image" />
+    <a href="https://londonappdeveloper.com">
+        <img src="https://londonappdeveloper.com/wp-content/uploads/2024/11/banner.svg" alt="Banner image" />
+    </a>
 </div>
 
 <div align="center">
