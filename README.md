@@ -6,6 +6,7 @@
 </div>
 
 <div align="center">
+    <p>Full-Stack Consulting and Courses.</p>
     <a href="https://londonappdeveloper.com">Website</a> |
     <a href="https://londonappdeveloper.teachable.com/">Courses</a> |
     <a href="https://londonappdeveloper.com/tutorials/">Tutorials</a> |
