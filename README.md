@@ -1,3 +1,3 @@
-# Dockerizing a React Project
+# Add a Database to Django with Postgres and Docker
 
-Tutorial code for dockerizing a react project
+How to add a Database to Django with Postgres and Docker.
