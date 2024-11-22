@@ -7,10 +7,10 @@
 
 <div align="center">
     <p>Full-Stack Consulting and Courses.</p>
-    <a href="https://londonappdeveloper.com" target="_blank">Website</a> |
-    <a href="https://londonappdeveloper.teachable.com/" target="_blank">Courses</a> |
-    <a href="https://londonappdeveloper.com/tutorials/" target="_blank">Tutorials</a> |
-    <a href="https://londonappdeveloper.com/consulting/" target="_blank">Consulting
+    <a href="https://londonapp.dev" target="_blank">Website</a> |
+    <a href="https://londonapp.dev/courses" target="_blank">Courses</a> |
+    <a href="https://londonapp.dev/tutorials" target="_blank">Tutorials</a> |
+    <a href="https://londonapp.dev/consulting" target="_blank">Consulting
 </div>
 
 <br /><br >
